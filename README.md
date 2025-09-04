@@ -35,4 +35,5 @@
  ## <a href="#"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="30" title="Hugging Face"/></a>  Live Demo with (Hugging Face Space)
  
  🔗[Try Cone-YOLO](https://huggingface.co/spaces/Hamadeen99/Cone-YOLO)
+ - Tip: Try a small video, no more than 5 seconds. 
 
